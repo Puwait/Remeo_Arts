@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Remeo_Arts
+The website is used to display artistic work
+>>>>>>> 5449cba41ec96782fac5cb81507bd68879634965
